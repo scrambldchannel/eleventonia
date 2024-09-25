@@ -1,9 +1,9 @@
 {
     "items": [
         {
-            "name": "Home",
+            "name": "About",
             "url": "/",
-            "title": "Home"
+            "title": "About"
         },
         {
             "name": "Posts",
@@ -11,9 +11,10 @@
             "title": "Posts"
         },
         {
-            "name": "About",
-            "url": "/about",
-            "title": "About"
+            "name": "Projects",
+            "url": "/projects",
+            "title": "Projects"
         }
+
     ]
 }

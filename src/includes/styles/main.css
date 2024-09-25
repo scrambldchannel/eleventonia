@@ -420,7 +420,9 @@ template {
   width: 90%;
   max-width: var(--max-width);
   margin: 0 auto;
-  padding-bottom: var(--s1);
+  padding-bottom: var(--s5);
+  padding-top: var(--s5);
+
   flex: 1 0 auto;
   overflow: hidden;
 }

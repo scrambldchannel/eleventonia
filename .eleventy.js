@@ -18,6 +18,7 @@ module.exports = function (config) {
   // LAYOUTS //
   config.addLayoutAlias("base", "layouts/base.njk");
   config.addLayoutAlias("post", "layouts/post.njk");
+  config.addLayoutAlias("project", "layouts/project.njk");
 
   // FILTERS //
   // date filter

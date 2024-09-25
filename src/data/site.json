@@ -1,14 +1,12 @@
 {
     "name": "Dashing Elephant",
-    "description": "A mildly opinionated Eleventy starter",
+    "description": "Adventures in data land",
     "url": "https://eleventonia.mattdecamp.com",
-    "locale": "en_us",
+    "locale": "en_au",
     "lang": "en",
-    "githubUrl": "https://github.com/mattdecamp/eleventonia",
-    "authorName": "Matt DeCamp",
-    "authorHandle": "@mpdecamp",
-    "authorEmail": "matt@happybear.dev",
+    "githubUrl": "https://github.com/scrambldchannel",
+    "authorName": "Alexander Sutcliffe",
+    "authorEmail": "malex@dashingelephant.xyz",
     "yearCreated": 2021,
     "copyright": "2021 to present",
-    "socialImage": "/"
 }
